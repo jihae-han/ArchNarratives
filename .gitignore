@@ -1,6 +1,15 @@
 .vs/
-Saved/
 Intermediate/
 Build/
 Binaries/
-!Saved/SaveGames/*
+Saved/Autosaves
+Saved/Collections
+Saved/Config
+Saved/Cooked
+Saved/Crashes
+Saved/Logs
+Saved/MaterialStats
+Saved/MaterialStatsDebug
+Saved/Shaders
+Saved/StagedBuilds
+Saved/AutoScreenshot.png
